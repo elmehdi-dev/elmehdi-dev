@@ -74,7 +74,7 @@ React-Frontend + Java/Python-Backend
 
 ## 📊 GitHub Stats
 
-![Elmehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=elmehdi-dev&show_icons=true&theme=tokyonight)
+![Elmehdi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=elmehdi-dev&show_icons=true&theme=tokyonight)
 
 ---
 
