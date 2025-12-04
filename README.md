@@ -82,8 +82,8 @@ React-Frontend + Java/Python-Backend
 
 ## 📬 Kontakt / Contact
 
-- 📧 Email: your-email-here  
-- 🔗 LinkedIn: your-link-here  
+- 📧 Email: work@elmehdierraji.com
+- 🔗 LinkedIn: https://www.linkedin.com/elmehdierraji
 - 📍 Standort: Casablanca, Marokko  
 
 ---
