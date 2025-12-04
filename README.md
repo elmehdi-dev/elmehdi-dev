@@ -75,7 +75,13 @@ React-Frontend + Java/Python-Backend
 
 ## 📊 GitHub Stats
 
-![Elmehdi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=elmehdi-dev&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=elmehdi-dev&show_icons=true&theme=dark&hide_border=true&border_radius=10" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elmehdi-dev&layout=compact&theme=dark&hide_border=true&border_radius=10" height="165" />
+</p>
+
 
 ---
 
